@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <sdk:sdk-sys-img xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<!--Generated on 2017-10-24 14:02:24.951391 with ADRT.-->
+	<!--Generated on 2017-12-15 17:05:06.619658 with ADRT.-->
 	<sdk:license id="android-sdk-license" type="text">Terms and Conditions
 
 This is the Android Software Development Kit License Agreement
@@ -405,16 +405,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 10.8 Open Source Software. In the event Open Source software is included with Evaluation Software, such Open Source software is licensed pursuant to the applicable Open Source software license agreement identified in the Open Source software comments in the applicable source code file(s) and/or file header as indicated in the Evaluation Software. Additional detail may be available (where applicable) in the accompanying on-line documentation. With respect to the Open Source software, nothing in this Agreement limits any rights under, or grants rights that supersede, the terms of any applicable Open Source software license agreement.
 </sdk:license>
 	<sdk:system-image>
-		<!--Generated from bid:4290868, branch:nyc-emu-release-->
+		<!--Generated from bid:4409132, branch:nyc-emu-release-->
 		<sdk:api-level>24</sdk:api-level>
 		<sdk:description>Google Play Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>16</sdk:revision>
+		<sdk:revision>19</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Thu Aug 24 22:49:21 2017.-->
-				<sdk:size>806904301</sdk:size>
-				<sdk:checksum type="sha1">4bacd6ca6bcc075c0453023be624abc43b152bb2</sdk:checksum>
-				<sdk:url>x86-24_r16.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:29:06 2017.-->
+				<sdk:size>812724041</sdk:size>
+				<sdk:checksum type="sha1">b52e9593ffdde65c1a0970256a32e8967c89cc22</sdk:checksum>
+				<sdk:url>x86-24_r19.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -429,7 +429,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>9</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Thu Sep  7 10:19:49 2017.-->
+				<!--Built on: Wed Nov  8 11:00:41 2017.-->
 				<sdk:size>972461719</sdk:size>
 				<sdk:checksum type="sha1">6f6668954f7fd52f896fe7528aa122028c9b026c</sdk:checksum>
 				<sdk:url>x86-25_r09.zip</sdk:url>
@@ -441,16 +441,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google Play</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4074420, branch:oc-emu-release-playstore-x86-->
+		<!--Generated from bid:4456315, branch:oc-emu-release-playstore-x86-->
 		<sdk:api-level>26</sdk:api-level>
 		<sdk:description>Google Play Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>4</sdk:revision>
+		<sdk:revision>7</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Wed Jun  7 08:28:43 2017.-->
-				<sdk:size>758386383</sdk:size>
-				<sdk:checksum type="sha1">e3cf39afb4646249468dd6631f970d9fc6dd19a7</sdk:checksum>
-				<sdk:url>x86-26_r04.zip</sdk:url>
+				<!--Built on: Mon Nov 20 08:19:38 2017.-->
+				<sdk:size>769390078</sdk:size>
+				<sdk:checksum type="sha1">2c8bee7b97a309f099941532e63c42a7d4a06e19</sdk:checksum>
+				<sdk:url>x86-26_r07.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-preview-license"/>
@@ -459,34 +459,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google Play</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4205617, branch:oc-emu-release-playstore-x86-->
-		<sdk:api-level>26</sdk:api-level>
-		<sdk:description>Google Play Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>5</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Sat Jul 22 22:01:16 2017.-->
-				<sdk:size>745656783</sdk:size>
-				<sdk:checksum type="sha1">31967c71a7f1b91c36b33ffb14584a5d1ccbc08c</sdk:checksum>
-				<sdk:url>x86-26_r05.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-preview-license"/>
-		<sdk:abi>x86</sdk:abi>
-		<sdk:tag-id>google_apis_playstore</sdk:tag-id>
-		<sdk:tag-display>Google Play</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4376136, branch:oc-mr1-release-playstore-x86-->
+		<!--Generated from bid:4458339, branch:oc-mr1-release-playstore-x86-->
 		<sdk:api-level>27</sdk:api-level>
 		<sdk:description>Google Play Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>1</sdk:revision>
+		<sdk:revision>2</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Thu Oct 19 09:54:03 2017.-->
-				<sdk:size>772591194</sdk:size>
-				<sdk:checksum type="sha1">7ea953640f808400ef52fd863582841b395d6674</sdk:checksum>
-				<sdk:url>x86-27_r01.zip</sdk:url>
+				<!--Built on: Fri Nov 17 16:22:38 2017.-->
+				<sdk:size>772318200</sdk:size>
+				<sdk:checksum type="sha1">7f7d0c178895a6a09a98e9523464d92d8cd1fd5a</sdk:checksum>
+				<sdk:url>x86-27_r02.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-preview-license"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <sdk:sdk-sys-img xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<!--Generated on 2017-10-24 14:01:50.116783 with ADRT.-->
+	<!--Generated on 2017-12-15 17:05:06.206497 with ADRT.-->
 	<sdk:license id="android-sdk-license" type="text">Terms and Conditions
 
 This is the Android Software Development Kit License Agreement
@@ -411,7 +411,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:49:24 2016.-->
+				<!--Built on: Wed Nov  8 11:06:30 2017.-->
 				<sdk:size>110716848</sdk:size>
 				<sdk:checksum type="sha1">cb60221d4ff6686ae96560970d48d9aa60e80b3f</sdk:checksum>
 				<sdk:url>armeabi-v7a-10_r05.zip</sdk:url>
@@ -429,7 +429,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:49:35 2016.-->
+				<!--Built on: Wed Nov  8 11:06:31 2017.-->
 				<sdk:size>118648586</sdk:size>
 				<sdk:checksum type="sha1">b8e8a4ab26890c4a395fb796bf9cb7ceb51c880e</sdk:checksum>
 				<sdk:url>x86-10_r05.zip</sdk:url>
@@ -447,7 +447,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:49:49 2016.-->
+				<!--Built on: Wed Nov  8 11:06:30 2017.-->
 				<sdk:size>148410647</sdk:size>
 				<sdk:checksum type="sha1">1ec4e6f9014fcbe694511280f5b497aaf7dd750f</sdk:checksum>
 				<sdk:url>armeabi-v7a-15_r05.zip</sdk:url>
@@ -465,7 +465,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Jun  5 18:22:11 2017.-->
+				<!--Built on: Wed Nov  8 11:06:32 2017.-->
 				<sdk:size>163102902</sdk:size>
 				<sdk:checksum type="sha1">f2b98baaf847ff5b82b82fdc6c396b229067307b</sdk:checksum>
 				<sdk:url>x86-15_r05.zip</sdk:url>
@@ -483,7 +483,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Jun  5 18:24:01 2017.-->
+				<!--Built on: Wed Nov  8 11:06:28 2017.-->
 				<sdk:size>186375868</sdk:size>
 				<sdk:checksum type="sha1">7edc5c0836fa32f8d453788c002ca0ee1bc5a0a2</sdk:checksum>
 				<sdk:url>x86-16_r05.zip</sdk:url>
@@ -501,7 +501,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:50:54 2016.-->
+				<!--Built on: Wed Nov  8 11:06:32 2017.-->
 				<sdk:size>174430788</sdk:size>
 				<sdk:checksum type="sha1">c990f2a81c24a61f9f1da5d5d205f2924ce548ae</sdk:checksum>
 				<sdk:url>armeabi-v7a-17_r05.zip</sdk:url>
@@ -519,7 +519,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:51:11 2016.-->
+				<!--Built on: Wed Nov  8 11:06:33 2017.-->
 				<sdk:size>194550080</sdk:size>
 				<sdk:checksum type="sha1">d89591526b66d7c475056b755dd20348bd6e5d75</sdk:checksum>
 				<sdk:url>x86-17_r05.zip</sdk:url>
@@ -537,7 +537,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:51:30 2016.-->
+				<!--Built on: Wed Nov  8 11:06:32 2017.-->
 				<sdk:size>178803998</sdk:size>
 				<sdk:checksum type="sha1">c4e69a96d4584f7e311e358fe4ad0e5d1bf1605b</sdk:checksum>
 				<sdk:url>armeabi-v7a-18_r05.zip</sdk:url>
@@ -555,7 +555,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>5</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Fri Aug 19 14:51:48 2016.-->
+				<!--Built on: Wed Nov  8 11:06:33 2017.-->
 				<sdk:size>199522085</sdk:size>
 				<sdk:checksum type="sha1">2b34741693eba9419cb6bf1a467596783234d37a</sdk:checksum>
 				<sdk:url>x86-18_r05.zip</sdk:url>
@@ -567,16 +567,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4309834, branch:git_klp-emu-release-->
+		<!--Generated from bid:4409133, branch:git_klp-emu-release-->
 		<sdk:api-level>19</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>31</sdk:revision>
+		<sdk:revision>32</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:47:37 2017.-->
-				<sdk:size>282729055</sdk:size>
-				<sdk:checksum type="sha1">2f9684f18fdc51b11906419dc34a5fd5f64fe240</sdk:checksum>
-				<sdk:url>x86-19_r31.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:27 2017.-->
+				<sdk:size>283677422</sdk:size>
+				<sdk:checksum type="sha1">11aba3be823e58485d63cfd833f10632c244f8f3</sdk:checksum>
+				<sdk:url>x86-19_r32.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -585,16 +585,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4309834, branch:git_klp-emu-release-->
+		<!--Generated from bid:4409133, branch:git_klp-emu-release-->
 		<sdk:api-level>19</sdk:api-level>
 		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
-		<sdk:revision>31</sdk:revision>
+		<sdk:revision>32</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:48:56 2017.-->
-				<sdk:size>238587516</sdk:size>
-				<sdk:checksum type="sha1">217e96217fb2237496dc1760be2d75b489c82f16</sdk:checksum>
-				<sdk:url>armeabi-v7a-19_r31.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:39 2017.-->
+				<sdk:size>239334286</sdk:size>
+				<sdk:checksum type="sha1">1a48643fb381894526047df889ba9ec66ea2ed06</sdk:checksum>
+				<sdk:url>armeabi-v7a-19_r32.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -603,124 +603,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4309839, branch:git_lmp-emu-release-->
+		<!--Generated from bid:4409217, branch:git_lmp-emu-release-->
 		<sdk:api-level>21</sdk:api-level>
-		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>23</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:49:52 2017.-->
-				<sdk:size>321481091</sdk:size>
-				<sdk:checksum type="sha1">8a6f09b7f60dad23b27d49a8adbaf66ac945e9ec</sdk:checksum>
-				<sdk:url>x86-21_r23.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>x86</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309839, branch:git_lmp-emu-release-->
-		<sdk:api-level>21</sdk:api-level>
-		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
-		<sdk:revision>23</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:51:38 2017.-->
-				<sdk:size>460221579</sdk:size>
-				<sdk:checksum type="sha1">3a7246f7e31b77a10c715cd760b1fbfb9fac07d6</sdk:checksum>
-				<sdk:url>x86_64-21_r23.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>x86_64</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309839, branch:git_lmp-emu-release-->
-		<sdk:api-level>21</sdk:api-level>
-		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
-		<sdk:revision>23</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:53:47 2017.-->
-				<sdk:size>290985465</sdk:size>
-				<sdk:checksum type="sha1">f0492422914a6f57a2ff82ce4cf70f321b4fcb3d</sdk:checksum>
-				<sdk:url>armeabi-v7a-21_r23.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>armeabi-v7a</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309840, branch:git_lmp-mr1-emu-release-->
-		<sdk:api-level>22</sdk:api-level>
-		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 14:55:34 2017.-->
-				<sdk:size>374973031</sdk:size>
-				<sdk:checksum type="sha1">7845689c7bbe4c277cd858c69fafe719cf578811</sdk:checksum>
-				<sdk:url>x86-22_r17.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>x86</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309840, branch:git_lmp-mr1-emu-release-->
-		<sdk:api-level>22</sdk:api-level>
-		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:14:40 2017.-->
-				<sdk:size>348419264</sdk:size>
-				<sdk:checksum type="sha1">882aa3d19e48ff9337080264a26e720692526aeb</sdk:checksum>
-				<sdk:url>armeabi-v7a-22_r17.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>armeabi-v7a</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309840, branch:git_lmp-mr1-emu-release-->
-		<sdk:api-level>22</sdk:api-level>
-		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
-		<sdk:archives>
-			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:16:08 2017.-->
-				<sdk:size>515454235</sdk:size>
-				<sdk:checksum type="sha1">3c3435cd65e1bf749490f9b90aba371360efe214</sdk:checksum>
-				<sdk:url>x86_64-22_r17.zip</sdk:url>
-			</sdk:archive>
-		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-license"/>
-		<sdk:abi>x86_64</sdk:abi>
-		<sdk:tag-id>google_apis</sdk:tag-id>
-		<sdk:tag-display>Google APIs</sdk:tag-display>
-	</sdk:system-image>
-	<sdk:system-image>
-		<!--Generated from bid:4309849, branch:git_mnc-emu-release-->
-		<sdk:api-level>23</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
 		<sdk:revision>24</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:18:14 2017.-->
-				<sdk:size>451905508</sdk:size>
-				<sdk:checksum type="sha1">7c46517b1631126e3c041f9609f683b97d77b922</sdk:checksum>
-				<sdk:url>x86-23_r24.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:28 2017.-->
+				<sdk:size>323045590</sdk:size>
+				<sdk:checksum type="sha1">af0937124690f29ffd51f03a26b09327409e988b</sdk:checksum>
+				<sdk:url>x86-21_r24.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -729,16 +621,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4309849, branch:git_mnc-emu-release-->
-		<sdk:api-level>23</sdk:api-level>
+		<!--Generated from bid:4409217, branch:git_lmp-emu-release-->
+		<sdk:api-level>21</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
 		<sdk:revision>24</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:20:29 2017.-->
-				<sdk:size>599322937</sdk:size>
-				<sdk:checksum type="sha1">01695ac75ba3e970b45f244d9e57f0a85b8e3319</sdk:checksum>
-				<sdk:url>x86_64-23_r24.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:34 2017.-->
+				<sdk:size>462827250</sdk:size>
+				<sdk:checksum type="sha1">7a893b28f14460e8212300ff5ce3d4fc0a5af0ae</sdk:checksum>
+				<sdk:url>x86_64-21_r24.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -747,16 +639,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4309849, branch:git_mnc-emu-release-->
-		<sdk:api-level>23</sdk:api-level>
+		<!--Generated from bid:4409217, branch:git_lmp-emu-release-->
+		<sdk:api-level>21</sdk:api-level>
 		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
 		<sdk:revision>24</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:22:39 2017.-->
-				<sdk:size>420278709</sdk:size>
-				<sdk:checksum type="sha1">3c0d3222c94e00e2102be2d8e56b96c0de9651d9</sdk:checksum>
-				<sdk:url>armeabi-v7a-23_r24.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:40 2017.-->
+				<sdk:size>292307998</sdk:size>
+				<sdk:checksum type="sha1">8c44545cdd69e3e1232c41d80943677ec467f9cf</sdk:checksum>
+				<sdk:url>armeabi-v7a-21_r24.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -765,16 +657,124 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310596, branch:git_nyc-emu-release-->
+		<!--Generated from bid:4409265, branch:git_lmp-mr1-emu-release-->
+		<sdk:api-level>22</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
+		<sdk:revision>18</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:29 2017.-->
+				<sdk:size>376565672</sdk:size>
+				<sdk:checksum type="sha1">bff35da7c24131daa277be7d1f9e7673e4501953</sdk:checksum>
+				<sdk:url>x86-22_r18.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>x86</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409265, branch:git_lmp-mr1-emu-release-->
+		<sdk:api-level>22</sdk:api-level>
+		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
+		<sdk:revision>18</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:25 2017.-->
+				<sdk:size>349665195</sdk:size>
+				<sdk:checksum type="sha1">cd6eb71036a632c5248ee635c900813161fad811</sdk:checksum>
+				<sdk:url>armeabi-v7a-22_r18.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>armeabi-v7a</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409265, branch:git_lmp-mr1-emu-release-->
+		<sdk:api-level>22</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
+		<sdk:revision>18</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:35 2017.-->
+				<sdk:size>518288585</sdk:size>
+				<sdk:checksum type="sha1">cc2fa54899883f7ee02f16a9639a0e1802d728f3</sdk:checksum>
+				<sdk:url>x86_64-22_r18.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>x86_64</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409279, branch:git_mnc-emu-release-->
+		<sdk:api-level>23</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
+		<sdk:revision>25</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:30 2017.-->
+				<sdk:size>453425675</sdk:size>
+				<sdk:checksum type="sha1">af9c137814b6175d9847998089a9350cc467eadb</sdk:checksum>
+				<sdk:url>x86-23_r25.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>x86</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409279, branch:git_mnc-emu-release-->
+		<sdk:api-level>23</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
+		<sdk:revision>25</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:36 2017.-->
+				<sdk:size>602148578</sdk:size>
+				<sdk:checksum type="sha1">98a141bb8e93e465904a9b799f9cdee2c3f6bdbc</sdk:checksum>
+				<sdk:url>x86_64-23_r25.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>x86_64</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409279, branch:git_mnc-emu-release-->
+		<sdk:api-level>23</sdk:api-level>
+		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
+		<sdk:revision>25</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Wed Nov  8 10:49:26 2017.-->
+				<sdk:size>421604236</sdk:size>
+				<sdk:checksum type="sha1">1221abd103781b52f6859ba0a2df3ffe1e499541</sdk:checksum>
+				<sdk:url>armeabi-v7a-23_r25.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-license"/>
+		<sdk:abi>armeabi-v7a</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4409132, branch:git_nyc-emu-release-->
 		<sdk:api-level>24</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
+		<sdk:revision>19</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:24:46 2017.-->
-				<sdk:size>819579299</sdk:size>
-				<sdk:checksum type="sha1">ea978086b1c162b0a44cd0693239fc673ca10b76</sdk:checksum>
-				<sdk:url>x86-24_r17.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:31 2017.-->
+				<sdk:size>822008071</sdk:size>
+				<sdk:checksum type="sha1">f6448de99938966b158ccd59c2783309add5a3e1</sdk:checksum>
+				<sdk:url>x86-24_r19.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -783,16 +783,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310596, branch:git_nyc-emu-release-->
+		<!--Generated from bid:4409132, branch:git_nyc-emu-release-->
 		<sdk:api-level>24</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
+		<sdk:revision>19</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:27:55 2017.-->
-				<sdk:size>1014857426</sdk:size>
-				<sdk:checksum type="sha1">c5b94c766255fd0ef94bcc363e003dec8e9f3af0</sdk:checksum>
-				<sdk:url>x86_64-24_r17.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:37 2017.-->
+				<sdk:size>1019438705</sdk:size>
+				<sdk:checksum type="sha1">4f2ed494cc149a11d6a17cd810197b1ffce559a3</sdk:checksum>
+				<sdk:url>x86_64-24_r19.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -801,16 +801,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310596, branch:git_nyc-emu-release-->
+		<!--Generated from bid:4409132, branch:git_nyc-emu-release-->
 		<sdk:api-level>24</sdk:api-level>
 		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
+		<sdk:revision>19</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:31:28 2017.-->
-				<sdk:size>734812635</sdk:size>
-				<sdk:checksum type="sha1">54c657d7fe968655fed91aae77136028d61387d1</sdk:checksum>
-				<sdk:url>armeabi-v7a-24_r17.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:27 2017.-->
+				<sdk:size>736996770</sdk:size>
+				<sdk:checksum type="sha1">9b09ba204a03fa1f97208e736ab8b459e54a45ef</sdk:checksum>
+				<sdk:url>armeabi-v7a-24_r19.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -819,16 +819,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310596, branch:git_nyc-emu-release-->
+		<!--Generated from bid:4409132, branch:git_nyc-emu-release-->
 		<sdk:api-level>24</sdk:api-level>
 		<sdk:description>Google APIs ARM 64 v8a System Image</sdk:description>
-		<sdk:revision>17</sdk:revision>
+		<sdk:revision>19</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:33:52 2017.-->
-				<sdk:size>962440032</sdk:size>
-				<sdk:checksum type="sha1">579f4c57232fa6aae5f92e47508fce43651bdfb1</sdk:checksum>
-				<sdk:url>arm64-v8a-24_r17.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:35 2017.-->
+				<sdk:size>966887875</sdk:size>
+				<sdk:checksum type="sha1">193b75e3721b5847630bbefd01021dac0f506f68</sdk:checksum>
+				<sdk:url>arm64-v8a-24_r19.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -837,16 +837,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310591, branch:git_nyc-mr1-emu-release-->
+		<!--Generated from bid:4414732, branch:git_nyc-mr1-emu-release-->
 		<sdk:api-level>25</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>9</sdk:revision>
+		<sdk:revision>10</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:36:37 2017.-->
-				<sdk:size>956051400</sdk:size>
-				<sdk:checksum type="sha1">4a5a28c8be46892e1c0cb4c89f3ea460b412ecc4</sdk:checksum>
-				<sdk:url>x86-25_r09.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:32 2017.-->
+				<sdk:size>958629589</sdk:size>
+				<sdk:checksum type="sha1">8001638e9bb5a31286ef9fd00e596f28d1583539</sdk:checksum>
+				<sdk:url>x86-25_r10.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -855,16 +855,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4252396, branch:git_nyc-mr1-emu-release-->
+		<!--Generated from bid:4414732, branch:git_nyc-mr1-emu-release-->
 		<sdk:api-level>25</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
-		<sdk:revision>8</sdk:revision>
+		<sdk:revision>10</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Aug  8 13:44:58 2017.-->
-				<sdk:size>1193789563</sdk:size>
-				<sdk:checksum type="sha1">0fdc282e9a8f9f980b3ea7d1c4e2c901c569bcf3</sdk:checksum>
-				<sdk:url>x86_64-25_r08.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:37 2017.-->
+				<sdk:size>1207545260</sdk:size>
+				<sdk:checksum type="sha1">f95e0d61dda1027c9cd7a9aad579b00c75ae5604</sdk:checksum>
+				<sdk:url>x86_64-25_r10.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -873,16 +873,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310591, branch:git_nyc-mr1-emu-release-->
+		<!--Generated from bid:4414732, branch:git_nyc-mr1-emu-release-->
 		<sdk:api-level>25</sdk:api-level>
 		<sdk:description>Google APIs ARM EABI v7a System Image</sdk:description>
-		<sdk:revision>9</sdk:revision>
+		<sdk:revision>10</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:40:11 2017.-->
-				<sdk:size>899169882</sdk:size>
-				<sdk:checksum type="sha1">ccd5ac06ff7c9900daab0dd4207f4e2b76c53107</sdk:checksum>
-				<sdk:url>armeabi-v7a-25_r09.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:28 2017.-->
+				<sdk:size>901493093</sdk:size>
+				<sdk:checksum type="sha1">23adaff6f3b30fafd5d18613b5dfb6d5615b8d61</sdk:checksum>
+				<sdk:url>armeabi-v7a-25_r10.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -891,16 +891,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4310591, branch:git_nyc-mr1-emu-release-->
+		<!--Generated from bid:4414732, branch:git_nyc-mr1-emu-release-->
 		<sdk:api-level>25</sdk:api-level>
 		<sdk:description>Google APIs ARM 64 v8a System Image</sdk:description>
-		<sdk:revision>9</sdk:revision>
+		<sdk:revision>10</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep  5 15:42:42 2017.-->
-				<sdk:size>1024672498</sdk:size>
-				<sdk:checksum type="sha1">33a6a302c23f7ef3833591653b62dfb0fbfc722f</sdk:checksum>
-				<sdk:url>arm64-v8a-25_r09.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:36 2017.-->
+				<sdk:size>1029426117</sdk:size>
+				<sdk:checksum type="sha1">1033c77be33ea629b057e4e4163f82be14244213</sdk:checksum>
+				<sdk:url>arm64-v8a-25_r10.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-license"/>
@@ -915,7 +915,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>4</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Jun  6 21:46:54 2017.-->
+				<!--Built on: Wed Nov  8 11:06:35 2017.-->
 				<sdk:size>769552811</sdk:size>
 				<sdk:checksum type="sha1">d3945081a412d3ac3627c3e102276b018ef874bc</sdk:checksum>
 				<sdk:url>x86-26_r04.zip</sdk:url>
@@ -927,16 +927,16 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4328566, branch:git_oc-emu-release-->
+		<!--Generated from bid:4409600, branch:git_oc-emu-release-->
 		<sdk:api-level>26</sdk:api-level>
 		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>6</sdk:revision>
+		<sdk:revision>7</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Sep 11 15:44:30 2017.-->
-				<sdk:size>777872785</sdk:size>
-				<sdk:checksum type="sha1">06a708647b5ffc96d7ec8866eb5a6b8a52ff334b</sdk:checksum>
-				<sdk:url>x86-26_r06.zip</sdk:url>
+				<!--Built on: Wed Nov  8 10:49:33 2017.-->
+				<sdk:size>778685156</sdk:size>
+				<sdk:checksum type="sha1">10a544d7f6ec11df876bb2efb9e8de9f648f682e</sdk:checksum>
+				<sdk:url>x86-26_r07.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-preview-license"/>
@@ -945,16 +945,34 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:tag-display>Google APIs</sdk:tag-display>
 	</sdk:system-image>
 	<sdk:system-image>
-		<!--Generated from bid:4376136, branch:oc-mr1-release-googleapi-x86-->
-		<sdk:api-level>27</sdk:api-level>
-		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
-		<sdk:revision>1</sdk:revision>
+		<!--Generated from bid:4471759, branch:git_oc-emu-release-->
+		<sdk:api-level>26</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom_64 System Image</sdk:description>
+		<sdk:revision>7</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Thu Oct 12 16:09:15 2017.-->
-				<sdk:size>788473947</sdk:size>
-				<sdk:checksum type="sha1">92bdd1edfbca487258ab4b8ab6da9c68ac6ce773</sdk:checksum>
-				<sdk:url>x86-27_r01.zip</sdk:url>
+				<!--Built on: Tue Nov 28 14:50:36 2017.-->
+				<sdk:size>955210183</sdk:size>
+				<sdk:checksum type="sha1">2ec8ea615a1f358bbbb5833734f2e401e2d7b862</sdk:checksum>
+				<sdk:url>x86_64-26_r07.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+		<sdk:uses-license ref="android-sdk-preview-license"/>
+		<sdk:abi>x86_64</sdk:abi>
+		<sdk:tag-id>google_apis</sdk:tag-id>
+		<sdk:tag-display>Google APIs</sdk:tag-display>
+	</sdk:system-image>
+	<sdk:system-image>
+		<!--Generated from bid:4458339, branch:oc-mr1-sdk-release-->
+		<sdk:api-level>27</sdk:api-level>
+		<sdk:description>Google APIs Intel x86 Atom System Image</sdk:description>
+		<sdk:revision>2</sdk:revision>
+		<sdk:archives>
+			<sdk:archive>
+				<!--Built on: Fri Nov 17 16:15:35 2017.-->
+				<sdk:size>790936412</sdk:size>
+				<sdk:checksum type="sha1">1b4557f27fe0220e9e54e5c4eadfec5abd194cf3</sdk:checksum>
+				<sdk:url>x86-27_r02.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
 		<sdk:uses-license ref="android-sdk-preview-license"/>

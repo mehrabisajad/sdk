@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <sdk:sdk-sys-img xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<!--Generated on 2017-10-24 14:01:40.117439 with ADRT.-->
+	<!--Generated on 2017-12-15 17:05:06.038912 with ADRT.-->
 	<sdk:license id="android-sdk-license" type="text">Terms and Conditions
 
 This is the Android Software Development Kit License Agreement
@@ -411,7 +411,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>6</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep 13 12:27:55 2016.-->
+				<!--Built on: Wed Nov  8 11:06:31 2017.-->
 				<sdk:size>253642503</sdk:size>
 				<sdk:checksum type="sha1">0df5d34b1cdaaaa3805a2f06bb889901eabe2e71</sdk:checksum>
 				<sdk:url>armeabi-v7a-23_r06.zip</sdk:url>
@@ -429,7 +429,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>6</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Tue Sep 13 12:28:05 2016.-->
+				<!--Built on: Wed Nov  8 11:06:37 2017.-->
 				<sdk:size>263767761</sdk:size>
 				<sdk:checksum type="sha1">3b15c123f3f71459d5b60c1714d49c5d90a5525e</sdk:checksum>
 				<sdk:url>x86-23_r06.zip</sdk:url>
@@ -447,13 +447,13 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>3</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Feb 20 04:04:09 2017.-->
+				<!--Built on: Wed Nov  8 11:06:33 2017.-->
 				<sdk:size>377841195</sdk:size>
 				<sdk:checksum type="sha1">76d3568a4e08023047af7d13025a35c9bf1d7e5c</sdk:checksum>
 				<sdk:url>armeabi-v7a-25_r03.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-preview-license"/>
+		<sdk:uses-license ref="android-sdk-license"/>
 		<sdk:abi>armeabi-v7a</sdk:abi>
 		<sdk:tag-id>android-wear</sdk:tag-id>
 		<sdk:tag-display>Android Wear</sdk:tag-display>
@@ -465,13 +465,13 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>3</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Feb 20 04:16:50 2017.-->
+				<!--Built on: Wed Nov  8 11:06:38 2017.-->
 				<sdk:size>397826706</sdk:size>
 				<sdk:checksum type="sha1">693fce7b487a65491a4e88e9f740959688c9dbe6</sdk:checksum>
 				<sdk:url>x86-25_r03.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
-		<sdk:uses-license ref="android-sdk-preview-license"/>
+		<sdk:uses-license ref="android-sdk-license"/>
 		<sdk:abi>x86</sdk:abi>
 		<sdk:tag-id>android-wear</sdk:tag-id>
 		<sdk:tag-display>Android Wear</sdk:tag-display>
@@ -483,7 +483,7 @@ ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED â€œAS ISâ
 		<sdk:revision>2</sdk:revision>
 		<sdk:archives>
 			<sdk:archive>
-				<!--Built on: Mon Sep 11 14:21:53 2017.-->
+				<!--Built on: Wed Nov  8 11:05:49 2017.-->
 				<sdk:size>356633232</sdk:size>
 				<sdk:checksum type="sha1">38ecbc0d216338d88a1715d59dba41b56e9fc0a2</sdk:checksum>
 				<sdk:url>x86-26_r02.zip</sdk:url>
